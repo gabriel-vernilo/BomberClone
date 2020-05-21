@@ -8,9 +8,9 @@ Simple Game Project by : BOOMDUH
 
 #TO DO
 
-[]  soundtrack
-[] enemys
-[] bombs
+[ ]  soundtrack
+[ ] enemys
+[ ] bombs
 ...
 =======
 ...
