@@ -14,3 +14,4 @@ Simple Game Project by : BOOMDUH
 - [ ] menu
 - [ ] multiplayer
 - [ ] document
+- [ ] up game in gamejolt
