@@ -4,13 +4,15 @@ Simple Game Project by : BOOMDUH
 
 # BOOMDUH
 
- Eight yung developers making a clone of bomberman
+ Eight yung developers team
 
-#TO DO
+# TO DO
 
 - [ ]  soundtrack
 - [ ] enemys
 - [ ] bombs
+- [ ] 3+ levels
+- [ ] menu
 ...
 =======
 ...
