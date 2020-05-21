@@ -1,10 +1,9 @@
 # BomberClone
 Simple Game Project by : BOOMDUH
-<<<<<<< HEAD
 
 # BOOMDUH
 
- Eight yung developers team
+ Eight yung developers team (ETEC Dr Celso Giglio / Osasco 2 students)
 
 # TO DO
 
@@ -13,8 +12,5 @@ Simple Game Project by : BOOMDUH
 - [ ] enemys
 - [ ] soundtrack
 - [ ] menu
-
-...
-=======
-...
->>>>>>> b65d58f6eec01ae29fd34f8ecbbec77d12ac1195
+- [ ] multiplayer
+- [ ] document
