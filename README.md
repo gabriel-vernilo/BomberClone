@@ -8,11 +8,12 @@ Simple Game Project by : BOOMDUH
 
 # TO DO
 
-- [ ]  soundtrack
-- [ ] enemys
-- [ ] bombs
 - [ ] 3+ levels
+- [ ] bombs
+- [ ] enemys
+- [ ] soundtrack
 - [ ] menu
+
 ...
 =======
 ...
